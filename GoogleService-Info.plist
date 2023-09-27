@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>959631218077-jotaflgs7pueij4fbllceaq1am7ic3bo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.959631218077-jotaflgs7pueij4fbllceaq1am7ic3bo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVamtrn_Jeqg8oRM9EmRl7rs3Z0os90Ik</string>
+	<key>GCM_SENDER_ID</key>
+	<string>959631218077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.altanozturk.MovieMasterUpdated</string>
+	<key>PROJECT_ID</key>
+	<string>moviemasterupdatedfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviemasterupdatedfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:959631218077:ios:4f3bf9922f8b6552cfcb74</string>
+</dict>
+</plist>
